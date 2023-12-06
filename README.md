@@ -23,7 +23,7 @@
 
   <br  /><a  href="https://e-project-fpt-apteach-group1-electric.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://studio.youtube.com/video/8cQ05xWua0U/edit" target="_blank">Video</a>
 
-<img  src="https://raw.githubusercontent.com/AliNguy3n/eProject-Fpt-Aptech-Group1-Durable-Furniture/main/public/images/UI-DEMO.png"  alt="Logo"  width="768px"  height="auto">
+
 
   ### Built With
   Below is the languages/libraries we used for this project:
